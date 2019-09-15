@@ -1,5 +1,5 @@
 {
-	"invocation": "wish zori a happy birthday",
+	"invocation": "wish zori happy birthday",
 	"intents": [
 		{
 			"name": "HappyBirthIntent",

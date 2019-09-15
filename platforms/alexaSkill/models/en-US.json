@@ -1,7 +1,7 @@
 {
 	"interactionModel": {
 		"languageModel": {
-			"invocationName": "wish zori a happy birthday",
+			"invocationName": "wish zori happy birthday",
 			"types": [],
 			"intents": [
 				{
