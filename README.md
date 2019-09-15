@@ -3,7 +3,7 @@
 An [Alexa](https://alexa.amazon.com/spa/index.html) skill announcing Zorielle's Birthday
 
 ```
-trigger: alexa, wish zori a happy birthday.
+trigger: alexa, wish zori happy birthday.
 
 alexa: I hope you have a good unicorn birthday party Zorielle Nova.
 ```
