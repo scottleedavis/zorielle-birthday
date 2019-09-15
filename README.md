@@ -7,6 +7,8 @@ trigger: alexa, wish zori happy birthday.
 
 alexa: I hope you have a good unicorn birthday party Zorielle Nova.
 ```
+![](unicorn.png)
+
 Built using [jovo](https://github.com/jovotech/jovo-framework)
 
 ### environment
