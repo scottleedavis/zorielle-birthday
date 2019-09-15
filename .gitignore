@@ -1,0 +1,8 @@
+dist/
+node_modules/
+db/
+bundle/
+bundle.zip
+.env
+.idea
+*.iml

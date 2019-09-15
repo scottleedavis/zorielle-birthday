@@ -1,0 +1,30 @@
+{
+	"interactionModel": {
+		"languageModel": {
+			"invocationName": "wish zori a happy birthday",
+			"types": [],
+			"intents": [
+				{
+					"name": "HappyBirthIntent",
+					"samples": [
+						"Happy Birthday Zori",
+						"Happy Unicorn Birthday Zori",
+						"say Happy Birthday Zori"
+					]
+				},
+				{
+					"name": "AMAZON.CancelIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.HelpIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.StopIntent",
+					"samples": []
+				}
+			]
+		}
+	}
+}
