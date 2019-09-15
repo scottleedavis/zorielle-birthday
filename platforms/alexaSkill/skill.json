@@ -13,8 +13,8 @@
 					],
 					"name": "zorielle-birthday",
 					"description": "Announces happy birthday to Zorielle",
-					"smallIconUri": "https://via.placeholder.com/108/09f/09f.png",
-					"largeIconUri": "https://via.placeholder.com/512/09f/09f.png"
+					"smallIconUri": "https://github.com/scottleedavis/zorielle-birthday/raw/master/unicorn_108.png",
+					"largeIconUri": "https://github.com/scottleedavis/zorielle-birthday/raw/master/unicorn_512.png"
 				}
 			},
 			"isAvailableWorldwide": true,
