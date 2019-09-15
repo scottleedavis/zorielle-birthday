@@ -2,9 +2,8 @@
 	"name": "",
 	"auto": true,
 	"webhookUsed": true,
-	"events": [
-		{
-			"name": "WELCOME"
+	"fallbackIntent": true
+}": "WELCOME"
 		}
 	]
 }

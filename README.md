@@ -9,8 +9,6 @@ alexa: I hope you have a good unicorn birthday party Zorielle Nova.
 ```
 Built using [jovo](https://github.com/jovotech/jovo-framework)
 
-![img](scraggins.png)
-
 ### environment
 
 ```go

@@ -9,5 +9,6 @@ module.exports = {
     googleAction: {
        nlu: 'dialogflow',
     },
-    endpoint: '${JOVO_WEBHOOK_URL}',
+    endpoint: 'arn:aws:lambda:us-west-2:982879137855:function:zorielleBirthday',
+    // endpoint: '${JOVO_WEBHOOK_URL}',
 };
